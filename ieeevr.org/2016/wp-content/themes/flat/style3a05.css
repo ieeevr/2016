@@ -1,0 +1,115 @@
+/*
+Theme Name: Flat
+Theme URI: https://themeisle.com/themes/flat/
+Author: ThemeIsle
+Author URI: https://themeisle.com
+Description: Flat is a free Blog Theme designed by YoArts. Works nice for a personal blog, magazine ,news or review website.
+Version: 1.7.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: flat
+Tags: black, orange, white, white, dark, light, two-columns, responsive-layout, left-sidebar, custom-background, custom-colors, custom-menu, editor-style, post-formats, custom-colors, translation-ready,featured-images, threaded-comments, translation-ready,photoblogging
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.sticky {}
+.bypostauthor {}
+
+#saturdayT table th, #sundayT table th, #mondayT table th, #tuesdayT table th, #wednesdayT table th, .time
+{	background-color: black;
+	color: white;
+}
+
+#overview table
+{	table-layout: fixed;
+	border: none;
+}
+
+#overview td, #overview th
+{	border: none;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.ui
+{	background-color: #572d8b;
+}
+
+.ui a:link, .ui a:active, .ui a:hover, .ui a:visited, .day a:link, .day a:active, .day a:hover, .day a:visited
+{	text-decoration: none;
+	color: white;
+}
+
+.dayTitle
+{	color: black;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.img-responsive
+{	width: 100%;
+}
+
+.day
+{	background-color: black;
+	border-radius: 30px;
+	text-align: center;
+	color: white;
+}
+
+.day h4
+{	margin-top: 7px;
+	margin-bottom: 7px;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: 700;
+}
+
+#paperOverview td
+{	border: 4px solid white;
+	width: 30%;
+}
+
+#tutorialOverview td
+{	border: 4px solid white;
+	width: 45%;
+}
+
+.catTitle
+{	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	margin-top: 13px;
+}
+
+.paperTeaser
+{	width: 45%;
+	float: left;
+	margin: 7px 10px 10px 0;
+}
+
+.imageTeaser
+{	margin: 0 0 10px 0;
+}
+
+.authors
+{	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+.orangebg
+{	background-color: #f66733;
+}
+
+.purplebg
+{	background-color: #572d8b;
+}
+
+.orange a:link, .orange a:active, .orange a:hover, .orange a:visited
+{	text-decoration: none;
+	color: #f66733;
+}
+
+.purple a:link, .purple a:active, .purple a:hover, .purple a:visited
+{	text-decoration: none;
+	color: #572d8b;
+}

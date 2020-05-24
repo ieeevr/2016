@@ -1,0 +1,119 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 May 2020 11:36:47 at http://ieeevr.org/2016/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*2016*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ieeevr.org/2016/ -O1 "C:\Users\vel\Desktop\VR_Backups\2016temp3\vr2016attemp3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*2016* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:36:47	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+11:37:38	Error: 	"Forbidden" (403) at link ieeevr.org/2016/xmlrpc.php?rsd (from ieeevr.org/2016/)
+11:41:31	Error: 	"Not Found" (404) at link ieeevr.org/2016/wp-content/plugins/ultimate-social-media-icons/images/top_aro.png (from ieeevr.org/2016/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=4.2.2)
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=35
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=35 to http://ieeevr.org/2016/program/program-overview/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=37
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=37 to http://ieeevr.org/2016/program/keynote/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=658
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=658 to http://ieeevr.org/2016/program/capstone-presentation/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=39
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=39 to http://ieeevr.org/2016/program/papers/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=840
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=840 to http://ieeevr.org/2016/posters/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=54
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=54 to http://ieeevr.org/2016/program/panels/
+11:41:32	Error: 	"Not Found" (404) at link ieeevr.org/2016/program/panels/steinicke@informatik.uni-hamburg.de (from ieeevr.org/2016/program/panels/)
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=50
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=50 to http://ieeevr.org/2016/program/workshop-papers/
+11:41:32	Warning: 	Moved Permanently for ieeevr.org/2016/?p=425
+11:41:32	Warning: 	File has moved from ieeevr.org/2016/?p=425 to http://ieeevr.org/2016/program/workshop-papers/third-ieee-vr-international-workshop-on-collaborative-virtual-environments-3dcve/
+11:41:32	Warning: 	Found for https://easychair.org/conferences/?conf=3dcve2016
+11:41:32	Warning: 	File has moved from https://easychair.org/conferences/?conf=3dcve2016 to /account/signin?l=RYozRoVBqlsRE33OV6BEvW#
+11:41:43	Warning: 	Moved Permanently for ieeevr.org/2016/?p=400
+11:41:43	Warning: 	File has moved from ieeevr.org/2016/?p=400 to http://ieeevr.org/2016/program/workshop-papers/second-workshop-on-everyday-virtual-reality/
+11:41:43	Warning: 	Found for https://easychair.org/conferences/?conf=wevr2016
+11:41:43	Warning: 	File has moved from https://easychair.org/conferences/?conf=wevr2016 to /account/signin?l=2bHNPy3Le6U8bOcAOhbT1T#
+11:41:43	Warning: 	Moved Permanently for ieeevr.org/2016/?p=393
+11:41:43	Warning: 	File has moved from ieeevr.org/2016/?p=393 to http://ieeevr.org/2016/program/workshop-papers/ieee-vr-2016-workshop-on-perceptual-and-cognitive-issues-in-ar-percar/
+11:41:48	Warning: 	Moved Permanently for ieeevr.org/2016/?p=412
+11:41:48	Warning: 	File has moved from ieeevr.org/2016/?p=412 to http://ieeevr.org/2016/program/workshop-papers/immersive-analytics-ia/
+11:41:48	Warning: 	Found for https://easychair.org/conferences/?conf=iv2016
+11:41:48	Warning: 	File has moved from https://easychair.org/conferences/?conf=iv2016 to /account/signin?l=yvN3pJW8n5tNARvRIzOqtI#
+11:41:48	Warning: 	Moved Permanently for ieeevr.org/2016/?p=408
+11:41:48	Warning: 	File has moved from ieeevr.org/2016/?p=408 to http://ieeevr.org/2016/program/workshop-papers/mixed-reality-art-mra-workshop/
+11:41:48	Warning: 	Found for https://easychair.org/conferences/?conf=mra2016
+11:41:48	Warning: 	File has moved from https://easychair.org/conferences/?conf=mra2016 to /account/signin?l=7ao0gDlPDd6FutPuQHpqS5#
+11:41:48	Warning: 	Moved Permanently for ieeevr.org/2016/?p=464
+11:41:48	Warning: 	File has moved from ieeevr.org/2016/?p=464 to http://ieeevr.org/2016/program/workshop-papers/ieee-virtual-reality-2016-workshop-on-k-12-embodied-learning-through-virtual-augmented-reality-kelvar/
+11:41:48	Warning: 	Moved Permanently for ieeevr.org/2016/?p=406
+11:41:48	Warning: 	File has moved from ieeevr.org/2016/?p=406 to http://ieeevr.org/2016/program/workshop-papers/9th-workshop-on-software-engineering-and-architectures-for-realtime-interactive-systems/
+11:41:48	Warning: 	Moved Permanently for ieeevr.org/2016/?p=404
+11:41:48	Warning: 	File has moved from ieeevr.org/2016/?p=404 to http://ieeevr.org/2016/program/workshop-papers/ieee-vr-workshop-on-virtual-humans-and-crowds-for-immersive-environments/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=52
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=52 to http://ieeevr.org/2016/program/tutorials/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=48
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=48 to http://ieeevr.org/2016/program/research-demos/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=56
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=56 to http://ieeevr.org/2016/program/videos/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=58
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=58 to http://ieeevr.org/2016/program/exhibitors/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=62
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=62 to http://ieeevr.org/2016/attend/registration/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=64
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=64 to http://ieeevr.org/2016/attend/venue/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=66
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=66 to http://ieeevr.org/2016/attend/accommodations/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=68
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=68 to http://ieeevr.org/2016/attend/transportion/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=1035
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=1035 to http://ieeevr.org/2016/attend/restaurants-2/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=1032
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=1032 to http://ieeevr.org/2016/attend/attractions-2/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=173
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=173 to http://ieeevr.org/2016/contribute/papers/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=358
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=358 to http://ieeevr.org/2016/contribute/call-for-doctoral-consortium/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=25
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=25 to http://ieeevr.org/2016/contribute/exhibitors-and-supporters/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=336
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=336 to http://ieeevr.org/2016/contribute/call-for-panels/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=316
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=316 to http://ieeevr.org/2016/contribute/call-for-posters/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=379
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=379 to http://ieeevr.org/2016/contribute/call-for-research-demos/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=385
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=385 to http://ieeevr.org/2016/contribute/call-for-student-volunteers/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=352
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=352 to http://ieeevr.org/2016/contribute/call-for-tutorials/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=397
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=397 to http://ieeevr.org/2016/contribute/call-for-videos/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=526
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=526 to http://ieeevr.org/2016/contribute/call-for-workshops/workshops/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=1044
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=1044 to http://ieeevr.org/2016/participate/presenter-instructions/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=72
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=72 to http://ieeevr.org/2016/committees/conference-committee/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=74
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=74 to http://ieeevr.org/2016/committees/program-committee/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=76
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=76 to http://ieeevr.org/2016/committees/steering-committee/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=1070
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=1070 to http://ieeevr.org/2016/awards-2/
+11:41:55	Warning: 	Moved Permanently for ieeevr.org/2016/?p=80
+11:41:55	Warning: 	File has moved from ieeevr.org/2016/?p=80 to http://ieeevr.org/2016/past-conferences/
+11:42:06	Error: 	"Not Found" (404) at link ieeevr.org/2016/contribute/call-for-workshops/third-ieee-vr-international-workshop-on-collaborative-virtual-environments-3dcve/ (from https://sites.google.com/site/3dcveieeevr2016/)
+11:42:16	Warning: 	Link https://sites.google.com/site/3dcveieeevr2016/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+11:42:16	Error: 	"Bad Request" (400) at link https://sites.google.com/site/3dcveieeevr2016/_/tz (from https://sites.google.com/site/3dcveieeevr2016/)
+11:42:18	Warning: 	Found for https://easychair.org/conferences/?conf=percar2016
+11:42:18	Warning: 	File has moved from https://easychair.org/conferences/?conf=percar2016 to /account/signin?l=ZkEopFAlUsCb6Jnt7k3MSI#
+11:42:23	Warning: 	Link https://sites.google.com/site/percarworkshop2016/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+11:42:23	Error: 	"Bad Request" (400) at link https://sites.google.com/site/percarworkshop2016/_/tz (from https://sites.google.com/site/percarworkshop2016/home)
+11:42:36	Warning: 	Link https://sites.google.com/site/vhcie2016/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+11:42:36	Error: 	"Bad Request" (400) at link https://sites.google.com/site/vhcie2016/_/tz (from https://sites.google.com/site/vhcie2016/)
+11:43:16	Error: 	"Not Found" (404) at link https://sites.google.com/site/vhcie2016/"" (from https://sites.google.com/site/vhcie2016/submission)
+11:43:31	Error: 	"Not Found" (404) at link https://accounts.google.com/POST (from https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/app/images/icon_plusone.png&followup=https://sites.google.com/site/sites/system/app/images/icon_plusone.png)
+11:43:31	Error: 	"Not Found" (404) at link https://accounts.google.com/GET (from https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/app/images/icon_plusone.png&followup=https://sites.google.com/site/sites/system/app/images/icon_plusone.png)
+11:43:51	Error: 	"Not Found" (404) at link https://accounts.google.com/+/ (from https://accounts.google.com/SignUp?service=jotspot&continue=https%3A%2F%2Fsites.google.com%2Fsite%2F3dcveieeevr2016%2Fhome)
+11:43:55	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/3dcveieeevr2016/_/rsrc/1589442141000/system/app/css/camelot/error.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 14 seconds : 582 links scanned, 520 files written (104865706 bytes overall) [83658498 bytes received at 169349 bytes/sec], 31688262 bytes transferred using HTTP compression in 295 files, ratio 30%, 1.6 requests per connection
+(12 errors, 96 warnings, 0 messages)
